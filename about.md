@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-##About
-
 I am a writer and web developer based in San Francisco, although I spent most of my years on the east coast (K-->BA in Massachusetts, BA-->mid-2016 in New York City). I'm interested in the relationship between humanity and technology. More specifically, how will technology shape our future? In what ways can we create and leverage technology to improve our lives? 
 
 ### My Work
