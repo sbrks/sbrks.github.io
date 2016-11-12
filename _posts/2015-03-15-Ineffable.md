@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Texperiments
+title: Ineffable
 ---
 
 > Let sounds be themselves rather than vehicles for man-made theories or expression of human sentiments.
