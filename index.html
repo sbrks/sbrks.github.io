@@ -23,12 +23,12 @@ layout: default
     </ul>
 </div>
 
-<div class="projects">
+<div class="blog">
     <h1>Projects:</h1>
     <ul>
         {% for project in site.projects %}
         <li>
-            <span class="date">{{ project.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ project.title }}</a>
+            <span class="date">{{ project.date | date: '%Y %b %d' }}</span> - <a href="{{ project.url }}">{{ project.title }}</a>
         </li>
         {% endfor %}
     </ul>
