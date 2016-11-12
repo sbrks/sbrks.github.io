@@ -22,3 +22,14 @@ layout: default
         {% endfor %}
     </ul>
 </div>
+
+<div class="projects">
+    <h1>Projects:</h1>
+    <ul>
+        {% for project in site.projects %}
+        <li>
+            <span class="date">{{ project.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ project.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

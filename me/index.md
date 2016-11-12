@@ -1,11 +1,26 @@
 ---
-layout: about
+layout: page
+title: About
+permalink: /about/
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+I am a writer and web developer based in San Francisco, although I spent most of my years on the east coast (K-->BA in Massachusetts, BA-->mid-2016 in New York City). I'm interested in the relationship between humanity and technology. More specifically, how will technology shape our future? In what ways can we create and leverage technology to improve our lives? 
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+### My Work
+Developer Projects:
+Big Talker
+Lendzen
+Lexa
+Vidbucket
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+
+Writing Projects:
+The Raveler
+This Blog
+SB in SA
+
+
+
+### Contact me
+
+[sbrks3@gmail.com](mailto:sbrks3@gmail.com)
