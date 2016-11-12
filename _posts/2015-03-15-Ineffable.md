@@ -4,7 +4,7 @@ title: Ineffable
 ---
 
 > Let sounds be themselves rather than vehicles for man-made theories or expression of human sentiments.
->**–John Cage**
+>**– John Cage**
 
 There are moments in life that transcend our ability to describe. Sometimes some thing is too extreme, too profound, too intense, to assign the right word, or the right combination of words, to accurately convey its feeling. This is what it means to be ineffable. Some thought, idea, feeling, or concept that goes beyond the purview of modern human language, human explanation or understanding. In my limited life experience, few things have been truly ineffable, and it’s futile to attempt to describe them, right? That’s the whole point. But they do generally manifest as feelings of intense love, pain, or fear. Some may consider religious experiences as ineffable. And perhaps ineffability varies from person to person, experience to experience.
 
