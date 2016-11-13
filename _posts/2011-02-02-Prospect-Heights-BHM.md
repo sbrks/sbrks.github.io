@@ -6,10 +6,12 @@ title: Black History Month in Brooklyn
 
 Note: this was originally published for Prospect Heights Patch [here](http://patch.com/new-york/prospectheights/prospect-heights-celebrates-black-history-month-with-660d3d272e)
 
+## Prospect Heights Celebrates Black History Month with Lectures, Films and More
+### A guide to neighborhood events this February.
 
 Prospect Heights residents have their choice of events to celebrate Black History Month.
 
-Brooklyn's  in Prospect Heights is offering the most events, with more than a dozen throughout February.
+Brooklyn's Main Public Library in Prospect Heights is offering the most events, with more than a dozen throughout February.
 
 “The Brooklyn Public Library concentrates on programs that highlight the cultural, political, and personal impacts of Americans of African descent,” said Meredith Walters, director of adult programming at the Central Library.
 
