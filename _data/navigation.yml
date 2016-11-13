@@ -1,11 +1,11 @@
+- title: blog
+  url: /blog
+
+- title: projects
+  url: /projects
+
 - title: about
   url: /about
 
-- title: github
-  url: https://github.com/sbrks
-
 - title: contact
-  url: /contact/
-
-- title: work
-  url: /work/
+  url: /contact
