@@ -1,9 +1,12 @@
-- name: project 1
-  link: "#"
+- name: Lendzen
+  link: "http://lendzen.herokuapp.com"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
+- name: The Raveler
+  link: "http://www.theraveler.com"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
+- name: Big Talker
+  link: "http://bigtalker.io"
+  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+ - name: Lexa
+  link: "http://github.com/sbrks/lexa"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
