@@ -18,9 +18,8 @@ layout: page
         {% for post in site.posts %}
         <li>
         	<a href="{{ post.url }}">{{ post.title }}</a><br>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span>
             {{ post.excerpt }}
-        </li>
+        </li><br>
         {% endfor %}
     </ul>
 </div>
