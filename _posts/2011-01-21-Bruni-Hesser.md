@@ -7,7 +7,9 @@ title: NYT Recipes
 
 ## 150 Years of New York Times Recipes: Frank Bruni and Amanda Hesser Discuss New Book
 
+
 ### Food writers discuss the making of "The Essential New York Times Cookbook" and the evolution of food and culture throughout American history.
+
 
 
 At the last night, New York Times food writers Frank Bruni and Amanda Hesser , “The Essential New York Times Cookbook: Classic Recipes for a New Century.”
