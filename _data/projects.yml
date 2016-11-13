@@ -1,12 +1,9 @@
 - name: Lendzen
-  link: "http://lendzen.herokuapp.com"
+  link: "#"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 - name: The Raveler
-  link: "http://www.theraveler.com"
+  link: "#"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 - name: Big Talker
-  link: "http://bigtalker.io"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
- - name: Lexa
-  link: "http://github.com/sbrks/lexa"
+  link: "#"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
