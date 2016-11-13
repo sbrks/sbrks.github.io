@@ -24,8 +24,8 @@ layout: default
     </ul>
 </div>
 
-<div id="projects">
-  <h2 class="my-mini-heading">{{ site.projects_btn }}</h2>
+<div>
+  <h2>{{ site.projects_btn }}</h2>
   <ul>
     {% for project in site.data.projects %}
     <li>
@@ -35,7 +35,4 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  <div>
-    <a onclick="hide_lists();" class="waves-effect waves-teal btn-flat btn-large">{{ site.close_btn }}</a>
-  </div>
 </div>
