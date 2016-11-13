@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Intelligent Assistants: Establishing and Questioning Gender Norms in AI
+title: Intelligent Assistant &#58 Establishing and Questioning Gender Norms in AI
 ---
