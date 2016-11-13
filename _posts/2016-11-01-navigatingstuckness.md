@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Navigating Stuckness
+category: Life Advice
+tags: [advice, art, code, work]
 ---
 
 This is from Jonathan Harris’s insightful, instructive, inspirational essay, [Navigating Unstuckness](http://transom.org/2014/jonathan-harris/). I view it as a guiding principle for my own life, in the decisions I choose to make and the people and things I give my attention to. Like Jonathan, when I was ten I was writing stories and drawing pictures. In a way, this blog is my way to get back to what I was doing then.
