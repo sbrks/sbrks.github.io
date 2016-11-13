@@ -7,23 +7,23 @@ I used to run pretty seriously (my definition of serious: following training pro
 
 BUT. Unlike most other pursuits, where I tend to jump in headfirst, go fast, and expect big results in short periods of time (read: photography, Crossfit, coding), I want to go slower this time. Take my time and gradually build up endurance. I’ve been inspired by a couple recent quotes I’ve come across extolling the virtues of slowness:
 
-When we walk half as fast, we notice twice as much.
-— Tara Brach
+>When we walk half as fast, we notice twice as much. — Tara Brach
 
-The gentle overcomes the rigid
-The slow overcomes the fast
-The weak overcomes the strong
-— Lao Tzu
+>The gentle overcomes the rigid
+>The slow overcomes the fast
+>The weak overcomes the strong
+> — Lao Tzu
 
-By the time it came to the edge of the Forest the stream had grown up, so that it was almost a river, and, being grown-up, it did not run and jump and sparkle along as it used to do when it was younger, but moved more slowly. For it knew now where it was going, and it said to itself, ‘There is no hurry. We shall get there someday.’
-— A.A. Milne
+> By the time it came to the edge of the Forest the stream had grown up, so that it was almost a river, and, being grown-up, it did not run and jump and sparkle along as it used to do when it was younger, but moved more slowly. For it knew now where it was going, and it said to itself, ‘There is no hurry. We shall get there someday.’
+> — A.A. Milne
 
-Wisely and slow. They stumble that run fast.
-— Shakespeare
+> Wisely and slow. They stumble that run fast.
+> — Shakespeare
 
 And of course my favorite, from someone invariably insightful and inspiring:
-I don’t think life is about a pace, living slow or fast. I think you just live, y’know what I mean?
-— Lil Wayne
+
+> I don’t think life is about a pace, living slow or fast. I think you just live, y’know what I mean?
+> — Lil Wayne
 
 I also tend to wait until the moment feels perfect. Like starting things on the first of the month so I have a nice clean number and way to track my progress. Or waiting til my new running shoes arrive so I feel like . Basically, optimizing my conditions to approach as “ideal” as possible. And of course, that definition of “ideal” is made up and nuanced to my own weird, idiosyncratic beliefs and habits. But really there is no perfect time. Sometimes you just have to stop waiting and planning and start doing.
 
