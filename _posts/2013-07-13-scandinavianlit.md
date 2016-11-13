@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scandinavian Literature
+category: Literature
+tags: [scandinavia, books, reading]
 ---
 
 Since I casually gleaned over the Comp Lit section of my course catalog senior year, where I noticed but didn't give much thought to a class offering on Scandinavian literature, my radar has sharpened on this particular, peculiar breed of writing. The class was called COMP 212 (S)Nordic Lights: Literary and Cultural Diversity in Modern Scandinavia. Here is a clip from the course description:

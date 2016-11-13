@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Texperiments
+category: Tech
+tags: [tech, apple]
 ---
 
 I have a bad case of (self-diagnosed) tech ADD. Even when I love some device, and it’s working great for me (read: my Macbrook Pro), I still want to try what else is out there. I’ve experimented with PC’s (Lenovo and Samsung) and I’ve experimented with the Macbook Air. Nothing has compared to my Macbrook Pro Retina 15″ in any regard. This affliction applies to other devices as well. For listening to music, I’ve tried my iPhone, an iPod Nano, iPod Shuffle, and Sansa Sport Clip (which, for ~$40, tiny, and clippable, I highly recommend for workouts). I can easily get drawn in to the newest and shiniest. I don’t consider myself materialistic in any other way except this. And maybe bags.

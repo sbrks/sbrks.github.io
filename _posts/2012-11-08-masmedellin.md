@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mas Medellin
+category: Colombia
+tags: [medellin, travel]
 ---
 
 Medellín: Mountains, Metrocables, Museums and more

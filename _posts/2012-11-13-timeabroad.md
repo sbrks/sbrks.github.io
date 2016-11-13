@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Time Abroad
+category: Colombia
+tags: [colombia, travel, time]
 ---
 
 Can’t see out but they see in

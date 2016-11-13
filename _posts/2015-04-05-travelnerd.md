@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Travel
+category: Travel
+tags: [travel, airfare, logistics]
 ---
 
 I have been seriously nerding out on travel and all its intricacies the past couple weeks. Other than a trip next week to visit my family in Houston, I don’t have any trips planned, but I still find it fascinating. I’ve learned a lot about frequent flyer miles, travel hacking, how to find the cheapest airfare, the history of commercial air travel, hidden city ticketing, how airlines set ticket prices, the different types of airplanes, and a whole lot more. I read Cockpit Confidential in about a day, and now I’m in the middle of The Travel Detective, for which I had low expectations (because I mean, look at that cover), but turns out is pure gold. I stumbled upon it in the travel section at the Brooklyn Library. I also picked up The Best American Travel Writing (2011 edition) and The Art of Travel by Alain de Botton (I highly recommend his Architecture of Happiness, which isn’t a self-help book like the title suggests but is actually about architecture and the impact of design and the built environment on our psyche, which is clearly my cup of tea).

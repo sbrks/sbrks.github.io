@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Fotografia
+category: Colombia
+tags: [photography, colombia, travel]
 ---
 
 Presenting you with the first few photos of Colombia that I’ve (surreptitiously) taken with my iPhone. I hope to break out my DSLR soon enough, but for now, just wanted to quickly give you an idea of the things I’ve been seeing so far:

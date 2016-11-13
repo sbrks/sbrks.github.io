@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Black History Month in Brooklyn
+category: journalism
+tags: [patch, nyc, prospect heights]
 ---
 
 

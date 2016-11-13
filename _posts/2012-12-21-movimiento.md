@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Movimiento
+category: Colombia
+tags: [travel, bogota]
 ---
 
 Moving on, settling down

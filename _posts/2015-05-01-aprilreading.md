@@ -3,7 +3,7 @@ layout: post
 title: April 2015 Reading List
 ---
 
-What I read in April
+What I read in April:
 
 Steve Jobs by Walter Isaacson
 
