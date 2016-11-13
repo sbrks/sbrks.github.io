@@ -1,3 +1,8 @@
+---
+layout: post
+title: Navigating Stuckness
+---
+
 This is from Jonathan Harris’s insightful, instructive, inspirational essay, Navigating Unstuckness. I view it as a guiding principle for my own life, in the decisions I choose to make and the people and things I give my attention to. Like Jonathan, when I was ten I was writing stories and drawing pictures. In a way, this blog is my way to get back to what I was doing then.
 
 > All we have in life is our time. People struggle after success. They hunger for fame, fortune, and power. But in all of these things, the same question exists — what will you do with your time? How do you want to spend your days? As Annie Dillard reminds us, “how we spend our days is, of course, how we spend our lives.”
