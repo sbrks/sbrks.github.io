@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fotografia
+title: Fotografía
 category: Colombia
 tags: [photography, colombia, travel]
 ---
