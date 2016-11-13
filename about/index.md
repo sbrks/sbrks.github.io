@@ -2,25 +2,24 @@
 layout: about
 title: About
 ---
-<p>
-Hi, I'm Steph. I am a writer and web developer based in San Francisco. I'm interested in the relationship between humanity and technology. More specifically, how will technology shape our future? In what ways can we create and leverage technology to improve our lives? 
-</p>
 
-<h2>My Work</h2>
-<h3>Developer Projects:</h3>
+Hi, I'm Steph. I am a writer and web developer based in San Francisco. I'm interested in the relationship between humanity and technology. More specifically, how will technology shape our future? In what ways can we create and leverage technology to improve our lives? 
+
+## My Work
+### Developer Projects:
 Big Talker
 Lendzen
 Lexa
 Vidbucket
 
 
-<h3>Writing Projects:</h3>
+### Writing Projects:
 The Raveler
 This Blog
 SB in SA
 
 
 
-<h2>Contact me</h2>
+## Contact me
 
 [sbrks3@gmail.com](mailto:sbrks3@gmail.com)
