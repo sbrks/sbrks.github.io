@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A History of NYT Recipes
+category: Journalism
+tags: [journalism, nyc, food]
 ---
 
 ***Note: this was originally published for the Prospect Heights Patch news site [here](http://patch.com/new-york/prospectheights/150-years-of-new-york-times-recipes-frank-bruni-and-ae55840fec5)***
