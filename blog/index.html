@@ -7,18 +7,8 @@ layout: page
 </div>
 <br><br>
 
-<div class="header">
-<ul>
-  {% for item in site.data.navigation %}
-   <li>
-       <a href="{{ item.url }}">{{ item.title }}</a>
-    </li>
-   {% endfor %}
-   </ul>
-</div>
-
 <div class="blog">
-	<h1>ssBlog</h1>
+	<h1>Blog</h1>
     <ul>
         {% for post in site.posts %}
         <li>
