@@ -26,11 +26,10 @@ layout: default
 
 <div class="projects">
 <h1>Projects</h1>
-  <h2>{{ site.projects_btn }}</h2>
   <ul>
     {% for project in site.data.projects %}
     <li>
-      <p class="my-item"><a href="{{ project.link }}" class="my-link">{{ project.name }}</a><br>
+      <p><a href="{{ project.link }}"">{{ project.name }}</a><br>
         {{ project.description }}
       </p>
     </li>
