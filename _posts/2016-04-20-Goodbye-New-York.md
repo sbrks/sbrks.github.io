@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Goodbye New York or (The Unexpected Virtue of Quitting)
+title: Goodbye New York
 ---
 
-Note: this was originally published on Medium on 4/20/16 [here](https://medium.com/@sbrks/goodbye-new-york-or-the-unexpected-virtue-of-quitting-7b107c457414#.3bqt3uldi)
+Note: this was originally published as **Goodbye New York or (The Unexpected Virtue of Quitting)** on Medium on 4/20/16 [here](https://medium.com/@sbrks/goodbye-new-york-or-the-unexpected-virtue-of-quitting-7b107c457414#.3bqt3uldi)
 
 Next week, I am leaving New York City and moving to San Francisco. I’ve lived here off and on since graduating in 2010. Before leaving, I wanted to share something I’m not normally open about but that I hope will 1) contextualize and inform, and 2) help — someone, anyone. One in four adults experience mental illness in a given year. This is just one fraction of one story. More stats here: http://www2.nami.org/factsheets/mentalillness_factsheet.pdf.
 A year and a half ago, I came back to New York after dropping out of law school. At the time, I felt supremely lost, way behind people my age, like an enormous failure. I got through 1L and a summer internship at an immigration law clinic, but felt like I had nothing to show for it. The future I spent so long constructing for myself was no longer intact. I no longer knew what I wanted to do, just one thing I didn’t want to do. The previous year until that point, I had been struggling with depression and anxiety in a way I never had before, in a way I hope no one has to (but know many people actually do). It was debilitating. At points, I thought everything was over, that there couldn’t possibly be something on the other side of it. Luckily, it never got so bad that I wasn’t hopeful: hopeful that being in a different place would help me sort things out, hopeful that I could work on myself, that I would meet new people, reconnect with others, and experience a life I felt in control of (to the extent that being in control of a life is even possible). So I left Virginia and came back to New York.
