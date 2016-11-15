@@ -13,7 +13,7 @@ layout: default
 </div>
 
 <div id="blog">
-    <div class="about__title">Words | {% for item in site.data.button %} <a style="text-transform:capitalize; text-decoration:underline" href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
+    <div class="about__title"><div style="text-decoration:underline">Words</div> | {% for item in site.data.button %} <a style="text-transform:capitalize" href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
     </div>
     <ul>
         {% for post in site.posts %}
