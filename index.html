@@ -12,16 +12,8 @@ layout: default
     </ul>
 </div>
 
-    <ul>
-        {% for item in site.data.button %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-
 <div id="blog">
-    <div class="about__title">Words | {% for item in site.data.button %} <a href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
+    <div class="about__title">Words | {% for item in site.data.button %} <a style="text-transform:capitalize; text-decoration:underline" href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
     </div>
     <ul>
         {% for post in site.posts %}
