@@ -18,6 +18,11 @@
   tech: "Javascript, HTML, CSS"
   link: "http://github.com/sbrks/quicknotes"
   description: "Ever have a great idea that you wish you had written down? I claim this happens to me a lot. So I made a really simple in-browser text editor. You can type out your notes and the browser will store them for you to come back to at a later time."
+- name: Sal Quotes
+  date: "June 2016"
+  tech: "HTML, CSS, Javascript"
+  link: "http://ssb.nyc/salquotes"
+  description: "Random inspirational quote generator."
 - name: Sol Lewitt Wall Mural
   date: "February 2016"
   tech: "Pencil, paper Sketch App, paint"
