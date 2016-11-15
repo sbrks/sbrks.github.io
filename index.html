@@ -38,18 +38,3 @@ layout: default
         {% endfor %}
     </ul>
 </div>
-
-<div id="projects">
-<h1>Projects</h1>
-    <h2 class="my-mini-heading">{{ site.projects_btn }}</h2>
-  <ul>
-    {% for project in site.data.projects %}
-    <li>
-      <p><a href="{{ project.link }}"">{{ project.name }}</a><br>
-        {{ project.description }}
-      </p>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
-          
