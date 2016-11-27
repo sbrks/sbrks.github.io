@@ -5,8 +5,7 @@ category: Colombia
 tags: [medellín, travel]
 ---
 
-Medellín: Mountains, Metrocables, Museums and more
-
+<h3>Medellín, Mountains, Metrocables, Museums y Mas</h3>
 
 I’ve been getting some good feedback, so to keep my three followers pleased, I think I will keep this going…
 

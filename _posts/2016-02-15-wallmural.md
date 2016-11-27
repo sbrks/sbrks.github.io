@@ -5,7 +5,7 @@ title: Mural
 
 I decided to create Sol Lewitt’s [Wall Drawing 797](https://www.artsy.net/artwork/sol-lewitt-wall-drawing-number-797) on a big, empty wall in my new bedroom...
 
-#### The finished product:
+<h4>The finished product:</h4>
 
 <img src="http://i1.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5493-1.jpg" width="600px">
 
