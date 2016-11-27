@@ -16,3 +16,6 @@ There is a new paradigm for how we interact with technology that will replace (o
 <img src="assets/img/ai/ai-11.png">
 <img src="assets/img/ai/ai-12.png">
 <img src="assets/img/ai/ai-13.png">
+
+<h2>A Mission Statement</h2>
+<img src="assets/img/ai/ai-15.png">
