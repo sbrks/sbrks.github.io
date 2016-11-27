@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Data: A Love Story
-category: Data
-tags: [data, quantified self, love, fitbit, sleep]
+title: Data A Love Story
 ---
 
 <h1>Data: A Love Story</h1>
@@ -11,7 +9,6 @@ tags: [data, quantified self, love, fitbit, sleep]
 <h2>Before</h2>
 
 <h2>A Week Off Fitbit</h2>
-
 <h2>October, 2015</h2>
 
 <h2>Filling the Gaps</h2>
