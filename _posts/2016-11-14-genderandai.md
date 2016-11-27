@@ -11,11 +11,11 @@ There is a new paradigm for how we interact with technology that will replace (o
 </p>
 
 <h2>A Random Assortment of Virtual Assistants</h2>
-<img src="assets/img/ai/ai-9.png">
-<img src="assets/img/ai/ai-10.png">
-<img src="assets/img/ai/ai-11.png">
-<img src="assets/img/ai/ai-12.png">
-<img src="assets/img/ai/ai-13.png">
+<img src="../assets/img/ai/ai-9.png" width="600"><br><br>
+<img src="../assets/img/ai/ai-10.png" width="600"><br><br>
+<img src="../assets/img/ai/ai-11.png" width="600"><br><br>
+<img src="../assets/img/ai/ai-12.png" width="600"><br><br>
+<img src="../assets/img/ai/ai-13.png" width="600" height="400"><br><br>
 
 <h2>A Mission Statement</h2>
-<img src="assets/img/ai/ai-15.png">
+<img src="../assets/img/ai/ai-15.png" width="600"><br><br>

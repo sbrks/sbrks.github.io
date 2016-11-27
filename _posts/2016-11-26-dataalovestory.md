@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Data A Love Story
+title: Data: A Love Story
 ---
 
-<h1>Data: A Love Story</h1>
+<h1>Data A Love Story</h1>
 
 
 <h2>Before</h2>
@@ -15,9 +15,9 @@ title: Data A Love Story
 
 <h2>Words for Numbers</h2>
 
-<img src="assets/img/datalove/sleepcycles.png">
+<img src="../assets/img/datalove/sleepcycles.png" width="600">
 
-<img src="assets/img/datalove/logistics.png">
+<img src="../assets/img/datalove/logistics.png" width="600">
 
 <h2>A Change in Heart</h2>
 
