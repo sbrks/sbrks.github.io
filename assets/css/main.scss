@@ -106,17 +106,6 @@ ul {
 }
 
 
-.music {
-	padding-bottom: 30px;
-	h1 {
-		font-size: 1.4em;
-		margin-bottom: 5px;
-	}
-	a {
-		padding: 5px;
-		padding-left: 10px;
-	}
-}
 
 .post {
 	padding-bottom: 30px;
@@ -153,13 +142,19 @@ ul {
 	&__content {
 		padding-top: 40px;
 		h1 {
-			font-size: 1.4em;
+			font-size: 1.5em;
 			font-weight: 700;
 			margin-top: 50px;
 			margin-bottom: 10px;
 		}
 		h2 {
-			font-size: 1.1em;
+			font-size: 1.35em;
+			font-weight: 700;
+			margin-top: 25px;
+			margin-bottom: 5px;
+		}
+		h3 {
+			font-size: 1.2em;
 			font-weight: 700;
 			margin-top: 25px;
 			margin-bottom: 5px;
