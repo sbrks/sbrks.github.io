@@ -23,6 +23,11 @@
   tech: "Javascript, HTML, CSS"
   link: "http://github.com/sbrks/quicknotes"
   description: "Ever have a great idea that you wish you had written down? I claim this happens to me a lot. So I made a really simple in-browser text editor. You can type out your notes and the browser will store them for you to come back to at a later time."
+- name: Canvas Sketch Pad
+  date: "July 2016"
+  tech: "Javascript, HTML, Canvas, CSS"
+  link: "http://ssb.nyc/canvas"
+  description: "."
 - name: Sal Quotes
   date: "June 2016"
   tech: "HTML, CSS, Javascript"
