@@ -6,6 +6,7 @@ title: Data--A Love Story
 <aside>A warning: this story does not have a happy ending. Not that the data cares. Or for that matter even knows.</aside>
 
 <h2>Before</h2>
+<h3>Testing</h3>
 <p>A lifelong athlete and fitness fiend, there is a record of my fitness-related data that long predates the data Fitbit has recorded.</p>
 
 <p>But Fitbit captured more data that my pen and notebook technique ever could, and did it constantly. Every minute, for every day I was wearing it. And not just my workout numbers and progress; Fitbit captured all my waking hours spent, all that time just living my life. It recorded my steps, my heart rate, the stairs I climbed and calories I burned. More than that, it captured all of my time spent asleep. Fitbit could tell me how long I slept each night, and how much of that time was in 'restless' or 'deep' sleep. Over time, this data painted a picture of my sleep habits and tendencies, how much time I spent asleep relative to how much time I spend in bed.</p>
