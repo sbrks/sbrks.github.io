@@ -26,13 +26,6 @@ title: Data--A Love Story
 
 <h2>A Week Off Fitbit</h2>
 
-<h2>A Timeline</h2>
-9/9/15: Connected on Coffee Meets Bagel
-
-9/10/15: L asks me out over the wknd
-9/16/15: plans to meet up in washington square park. i agree, this time she has to cancel. i give her my number.
-Friday 9/18/15 - Sunday 9/21/15: Weekend in Chicago, breakup with E
-
 <h2>October, 2015</h2>
 
 <h2>Filling the Gaps</h2>
