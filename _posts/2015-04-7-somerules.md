@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rules for When You Need Them
+comments: true
 ---
 
 I wrote these in my notebook this morning, but for posterity.
