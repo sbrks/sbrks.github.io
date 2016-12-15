@@ -2,6 +2,19 @@
 layout: about
 title: About SSB
 ---
+
+<div class="header">
+    <h1>{{ site.name }}</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+
 <p>
 Hello. I am a writer and web developer based in San Francisco. This site is a recent effort to consolidate all of the writing I've published in disparate places over the past five years. It covers everything from backpacking in South America (2012) to reporting in Brooklyn (2011) all the way to more recent writings on design, data, algorithms, and Stoicism (2015-16).</p>
 
