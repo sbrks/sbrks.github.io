@@ -3,6 +3,7 @@ layout: post
 title: Fotografía
 category: Colombia
 tags: [photography, colombia, travel]
+comments: true
 ---
 
 Presenting you with the first few photos of Colombia that I’ve (surreptitiously) taken with my iPhone. I hope to break out my DSLR soon enough, but for now, just wanted to quickly give you an idea of the things I’ve been seeing so far:
@@ -26,4 +27,33 @@ And finally, the metro, which can get you pretty much anywhere you want to go in
 <img src="https://sbinsa.files.wordpress.com/2012/11/photo-4.jpg" width="600px" height="700px">
 
 <img src="https://sbinsa.files.wordpress.com/2012/11/photo-6.jpg" width="600px" height="700px">
+
+
+{% if page.comments %}
+    
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//sbro.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+
+{% endif %}
+
+</div>
 
