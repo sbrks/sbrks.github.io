@@ -1,8 +1,8 @@
-# - name: "Data: A Love Story"
-#   date: "Fall/Winter 2016"
-#   tech: "D3.js, Javascript, HTML, CSS"
-#   link: "http://github.com/sbrks/datalove"
-#   description: "A love story told through Fitbit data. The increasing amount of data that describes our lives still leaves gaps that are impossible to fill without a human there to fill them. This is one attempt to take control of my data, substantiating it with a real life, intensely personal story. This all started because I wanted to get a better idea of my sleep cycles."
+- name: "Data: A Love Story"
+  date: "Fall/Winter 2016"
+  tech: "D3.js, Javascript, HTML, CSS"
+  link: "http://github.com/sbrks/datalove"
+  description: "A love story told through Fitbit data. The increasing amount of data that describes our lives still leaves gaps that are impossible to fill without the human element. This is one attempt to take control of my data, substantiating it with a real life, intensely personal story. This all started because I wanted to know abotu my sleep cycles."
 - name: Lendzen
   date: "July 2016"
   tech: "Ruby on Rails, Heroku, HTML, CSS, Javascript, jQuery, ActiveRecord, PostgreSQL"
@@ -12,7 +12,7 @@
   date: "August 2016 - Present"
   tech: "Ruby on Rails, Heroku, HTML, CSS, Javascript, jQuery, ActiveRecord, PostgreSQL"
   link: "http://bigtalker.io"
-  description: "Airbnb for workshops and seminars. I developed this with a fellow GA programmer and product lead. Best part: it's a real business with paying customers! My first professional experience as a developer."
+  description: "Airbnb for workshops and seminars. I developed this with a fellow GA programmer and product lead. Best part: it's a real business with paying customers. My first professional experience as a developer."
 - name: Lexa
   date: "In development"
   tech: "Ruby on Rails, Foundation, Javascript, PostgreSQL"
