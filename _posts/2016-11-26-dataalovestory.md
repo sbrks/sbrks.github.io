@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data--A Love Story
+title: Data&#58;A Love Story
 comments: true
 ---
 
