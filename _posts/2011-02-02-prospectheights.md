@@ -3,10 +3,11 @@ layout: post
 title: Black History Month in Brooklyn
 category: journalism
 tags: [patch, nyc, prospect heights]
+comments: true
 ---
 
 
-Note: this was originally published for Prospect Heights Patch [here](http://patch.com/new-york/prospectheights/prospect-heights-celebrates-black-history-month-with-660d3d272e)
+<strong>Note:</strong> this was originally published for Prospect Heights Patch [here](http://patch.com/new-york/prospectheights/prospect-heights-celebrates-black-history-month-with-660d3d272e)
 
 ## Prospect Heights Celebrates Black History Month with Lectures, Films and More
 
@@ -28,13 +29,11 @@ New York-based world music singer Kaïssa performs a “unique blend of African,
 
     
 Target First Saturdays: Framing Our History The  celebrates the contributions of African Americans during the 1930s, 1940s, and 1950s with programs inspired by the exhibition "Lorna Simpson: Gathered." Highlights will include a performance by The Fat Cat Big Band, an interactive photo project, and a performance by The Small’s Jazz Club All-Stars. Saturday, Feb. 5, 5 p.m. to 11 p.m. . Free
-
  
- Dr. MaryNell Morgan-Brown discusses the importance of Du Bois' life and work, including his most popular book, The Souls of Black Folk (1903).  Audience participation is encouraged. Sunday, Feb. 6, 1:30 p.m. Dweck Center, . Free.
+Dr. MaryNell Morgan-Brown discusses the importance of Du Bois' life and work, including his most popular book, The Souls of Black Folk (1903).  Audience participation is encouraged. Sunday, Feb. 6, 1:30 p.m. Dweck Center, . Free.
 
 
 A documentary screening about the refusal of African teams to compete in the Olympics with South Africa’s all-white teams. Fourth in the seven-part series, Have You Heard from Johannesburg? A discussion led by scholar Grace Davie will follow the film. Tuesday, Feb. 8, 6:30 p.m. Dweck Center, . Free.
-
 
 
 A conversation with poet Ntozake Shange and writer Michaela Angela Davis about Shange’s past and current work. Thursday, Feb. 10, 7 p.m. . Tickets (which include museum admission) are $6 for members and $10 for non-members.
@@ -84,3 +83,31 @@ A discussion with scholars Horace G. Campbel  and Carina Ray examining W.E.B. Du
 
 
 Free at Last (South Africa in Focus) – A documentary screening about the apartheid regime’s final lifting of decades-long bans, and Nelson Mandela’s release from prison. Final installment of the seven-part series Have You Heard from Johannesburg? Tuesday, March 1, 6:30 p.m. Dweck Center, . Free.
+
+{% if page.comments %}
+    
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//sbro.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+
+{% endif %}
+
+</div>

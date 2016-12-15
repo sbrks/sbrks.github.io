@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data--A Love Story
+comments: true
 ---
 
 <aside>A warning: this story does not have a happy ending. Not that the data cares. Or for that matter even knows.</aside>
@@ -44,7 +45,7 @@ title: Data--A Love Story
 
 <p> One and a half weeks later, I wrote this blog post: </p>
 
-<img src="../assets/img/datalove/sleepcycles.png" width="600"><br>
+<img src="#" width="600"><br>
 
 <p> Four days after that, amidst L's and my plans to travel to Turkey together, I wrote another: </p>
 
