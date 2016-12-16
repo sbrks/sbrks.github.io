@@ -1,3 +1,11 @@
+---
+layout: post
+title: The Philophy of Work
+category: Work
+tags: [work, philosophy]
+comments: true
+---
+
 <h3>Work work work work work</h3>
 
 
