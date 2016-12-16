@@ -49,7 +49,7 @@ comments: true
 
 <p> Four days after that, amidst L's and my plans to travel to Turkey together, I wrote another: </p>
 
-<img src="../assets/img/datalove/logistics.png" width="600"><br>
+<img src="#" width="600"><br>
 
 <p>Those blog posts, written four days apart, were the only two I published over the course of our relationship. In a way, though, they're more powerful than every single piece of data, all X nights, X minutes slept, X steps taken, X calories burned. They tell you more about my state of mind, L's personality, the intensity of it all, than the numbers ever could.</p>
 
