@@ -13,3 +13,8 @@ Work has been on mind my lately. Not the specifics of my own job, but rather the
 
 I think class is the primary determinant of one's attitude towards work. High-paying, white collar jobs where an employee is rewarded for the work of their mind, relationships, cognitive abilities and personality:  this is a very different work experience than a minimum wage food service job, where those aspects matter little so long as you get the physical job done. 
 
+<ul><h3>Sources</h3></ul>
+  <li>https://www.jstor.org/stable/pdf/20515765.pdf?seq=1#page_scan_tab_contents</li>
+  <li>#</li>
+  <li>#</li>
+ </ul>
