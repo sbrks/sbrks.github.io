@@ -3,6 +3,7 @@ layout: post
 title: A History of NYT Recipes
 category: Journalism
 tags: [journalism, nyc, food]
+comments: true
 ---
 
 ***Note: this was originally published for the Prospect Heights Patch news site [here](http://patch.com/new-york/prospectheights/150-years-of-new-york-times-recipes-frank-bruni-and-ae55840fec5)***
@@ -53,5 +54,33 @@ The authors also discussed the nature of cookbooks and their consistently popula
 The banter came to a close with a final question from an audience member who admitted that they were intimidated in the kitchen, and wanted a simple, delicious, confidence-boosting recipe.
 
 Before Hesser could answer, Bruni jumped in, immediately sympathizing by admitting he was a terrible cook. He recommended a recipe for rack of lamb by fellow New York Times food writer Mark Bittman (whose recipes appear in Hesser’s cookbook).
+
+{% if page.comments %}
+    
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//sbro.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+
+{% endif %}
+
+</div>
 
 “You can’t ruin it,” Bruni promised. The recipe can be found [here](http://www.nytimes.com/2010/12/22/dining/22mini.html?scp=2&sq=bittman%20rack%20of%20lamb&st=cse).

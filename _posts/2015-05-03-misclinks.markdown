@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Links
+comments: true
 ---
 
 My motivation to write original content for this blog waxes and wanes throughout the week. I always have ideas written down in notebooks or swirling around in my head. I often have a thought or idea or observe something interesting and think, “Hey this would make a great blog post. I’ll do that later tonight.” As is apparent with one scroll through my blog, I rarely follow through. As a stopgap until I conjure up some more motivation, here are some links to original content written elsewhere on the internets by people evidently more motivated than me:

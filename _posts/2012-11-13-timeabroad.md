@@ -3,6 +3,7 @@ layout: post
 title: Time Abroad
 category: Colombia
 tags: [colombia, travel, time]
+comments: true
 ---
 
 I’ve been here eleven days, but it feels like eleven months. Time passes slowly here. Not in that any given hour or block of time feels particularly long. But in each day I manage to fit in many different things, all of them brand new to me, and still manage to have a lot of time to relax, read, and sleep. By “different things,” I don’t necessarily mean sight-seeing or some other fun activity. Sometimes it is that, but usually it’s the simple act of say, buying groceries, finding a bookstore, making a phone call. Even the mundane things here have a new and unfamiliar aspect to them, and unlike at home, where I can go about my day without giving it much thought, doing the same thing here requires 100% of my mental capacity. Being so conscious of every little thing slows time down. So, if anyone is feeling like their life is moving too quickly, I suggest dropping everything and moving to a foreign country. 

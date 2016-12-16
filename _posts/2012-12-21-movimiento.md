@@ -3,6 +3,7 @@ layout: post
 title: Movimiento
 category: Colombia
 tags: [travel, bogota]
+comments: true
 ---
 
 Moving on, settling down

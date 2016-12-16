@@ -2,6 +2,7 @@
 layout: post
 title: AI and Gender
 tags: [ai, gender, future, intelligent assistants]
+comments: true
 ---
 
 <h1>DRAFT</h1>

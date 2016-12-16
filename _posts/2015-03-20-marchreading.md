@@ -3,6 +3,7 @@ layout: post
 title: March 2015 Reading List
 category: Books
 tags: [reading, creativity]
+comments: true
 ---
 
 I’ve spent a whole lot more time reading/consuming than writing/creating this past month. I’ve been keeping up with my morning pages, for the most part, but beyond that, I’ve been feeling a little creatively blocked. So, when pressed for content, what better way to churn out material than to compose a list, right? So here’s what I’ve read this past month, in chronological order:

@@ -3,6 +3,7 @@ layout: post
 title: Good Design is Everywhere
 category: Design
 tags: [design, stuff]
+comments: true
 ---
 
 Yesterday after work I was walking to the downtown 6 getting soaked and splashed by the wintry mix of the day. This should have been unpleasant: it was cold and wet and dreary out, it was rush hour, and I just wanted to get to the gym. It wasn’t, though. And I have good design to thank for that.

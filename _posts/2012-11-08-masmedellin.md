@@ -3,6 +3,7 @@ layout: post
 title: Más Medellín
 category: Colombia
 tags: [medellín, travel]
+comments: true
 ---
 
 Medellín: Mountains, Metrocables, Museums and more

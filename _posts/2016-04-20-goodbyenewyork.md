@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Goodbye New York
+comments: true
 ---
 
 Note: this was originally published as **Goodbye New York or (The Unexpected Virtue of Quitting)** on Medium on 4/20/16 [here](https://medium.com/@sbrks/goodbye-new-york-or-the-unexpected-virtue-of-quitting-7b107c457414#.3bqt3uldi)

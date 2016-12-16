@@ -3,6 +3,7 @@ layout: post
 title: Ineffable
 category: Philosophy
 tags: [music, language]
+comments: true
 ---
 
 <quote>Let sounds be themselves rather than vehicles for man-made theories or expression of human sentiments.– John Cage</quote>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hackathons and Decision Making
+comments: true
 ---
 
 I attended an all women’s hackathon at Dev Bootcamp this past weekend. I decided to attend the day before the event, and offered to volunteer during the event so I could do it for free. When it started, I decided to pitch an idea. Then I decided to form a team of fellow engineers who were interested in my idea. I decided not to turn anyone away: anyone who was interested in the idea could join my team. I decided to lead this team in such a way that everyone could contribute, no matter their skill level. I decided to collaborate and delegate work based on my teammates’ individual strengths. I decided to build our project in Rails. I decided to teach how Rails works in the middle of the day, and then I decided to scrap that lesson when most of my teammates started down a time-consuming rabbit hole of dependency installation (Git, Homebrew, RVM, Ruby, Rails, and so on) just to get the project running locally. I decided that time could be better spent elsewhere. I decided what features to focus on and get right for our demo, and which features to table until later. I decided to demo our project in front of a panel of judges and crowd of ~120 at 11 o’clock on a Saturday night.

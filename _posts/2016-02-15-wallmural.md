@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mural
+comments: true
 ---
 
 I decided to create Sol Lewitt’s [Wall Drawing 797](https://www.artsy.net/artwork/sol-lewitt-wall-drawing-number-797) on a big, empty wall in my new bedroom...
