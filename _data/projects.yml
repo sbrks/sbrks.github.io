@@ -33,6 +33,7 @@
   link: "http://ssb.nyc/canvas"
   description: "."
 - name: Sal Quotes
+  image: "/assets/img/projects/salquotes.png"
   date: "June 2016"
   tech: "HTML, CSS, Javascript"
   link: "http://ssb.nyc/salquotes"
