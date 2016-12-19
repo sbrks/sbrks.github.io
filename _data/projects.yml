@@ -1,4 +1,5 @@
 - name: "Data: A Love Story"
+  image: "/assets/img/datalove/april16.png"
   date: "Fall/Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
   link: "http://github.com/sbrks/datalove"
