@@ -124,24 +124,6 @@ ul {
 
 }
 
-.tag-name {
-  text-transform: uppercase;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-h2.tag-name {
-  text-transform: uppercase;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.tag-name h2{
-  text-transform: uppercase;
-  font-size: 18px;
-  font-weight: bold;
-}
-
 .post {
 	padding-bottom: 30px;
 	&__back {
@@ -280,10 +262,7 @@ h2.tag-name {
 }
 
 .tag-link{
-/*     font-size: 75%; */
     padding: 0 .2rem 0 .2rem;
-/*     border-radius: 5px; */
-/*     background: #e7f2f7; */
     color: $color-link;
 }
 
