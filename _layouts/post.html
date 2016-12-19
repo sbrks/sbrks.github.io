@@ -28,9 +28,9 @@ layout: default
 	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
 	
-<span>|
+<span>
     {% for tag in page.tags %}
-      <span class="codinfox-tag-mark">{{ tag }}</span>
+      <span class="codinfox-tag-mark">Tags: {{ tag }}</span>
     {% endfor %}
   </span>
 
