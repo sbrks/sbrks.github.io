@@ -10,17 +10,10 @@ layout: page
 
 <div class="projects">
 <h1 class="about__title">Projects</h1>
-  <ul>
     {% for project in site.data.projects %}
-    <li>
-      <p><a href="{{ project.link }}"">{{ project.name }}</a><br>
-          <ul>
-          <li><h3>Date Created:</h3> {{ project.date }} </li>
-          <li><h3>Tech:</h3> {{ project.tech }} </li>
-          <li> {{ project.description }} </li>
-          </ul>
-      </p>
-    </li>
+    <a href="{{ project.link }}"">{{ project.name }}</a><br>
+          <h3>Date Created:</h3> {{ project.date }}
+          <h3>Tech:</h3> {{ project.tech }}
+          <p> {{ project.description }}</p>
     {% endfor %}
-  </ul>
 </div>
