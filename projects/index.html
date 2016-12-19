@@ -9,11 +9,11 @@ layout: page
 <div class="projects">
 <h1 class="about__title">Projects</h1>
     {% for project in site.data.projects %}
-    <h3><a href="{{ project.link }}"">{{ project.name }}</a></h3><br>
+    <h2><a href="{{ project.link }}"">{{ project.name }}</a></h2><br>
 <ul> 
   <li>{{ project.description }}</li>
   <li><h4>Date Created:</h4> {{ project.date }}</li>
-  <li><h4>Tech:</h4> {{ project.tech }}</li>
+  <li><h4>Technologies:</h4> {{ project.tech }}</li>
  </ul><br>
     {% endfor %}
 </div>
