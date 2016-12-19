@@ -24,23 +24,17 @@ layout: default
     <div class="post__date">
     	<p>{{ page.date | date: '%B %-d, %Y' }}</p>
     </div>
-{% for tag in tags %}
+<!-- {% for tag in tags %}
 	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %}
+{% endfor %} -->
 	
-<!-- <span>Tags:
-    {% for tag in page.tags %}
-      <span class="codinfox-tag-mark"> {{ tag }}</span>
-    {% endfor %}
-  </span>
- -->
-	
+
 	  {% if page.tags != empty %}
-            |
+            Tags:
             {% for tag in page.tags %}
             <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
             {% endfor %}
-            {% endif %}
+          {% endif %}
 
     <div class="post__meta">
     	<p>{{ tags_content }}</p>
