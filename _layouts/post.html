@@ -32,7 +32,7 @@ layout: default
 	  {% if page.tags != empty %}
             Tags:
             {% for tag in page.tags %}
-            <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+            <a class="tag-link" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
             {% endfor %}
           {% endif %}
 
