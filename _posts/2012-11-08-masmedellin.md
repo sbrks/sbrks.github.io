@@ -51,7 +51,7 @@ Boarding the Metrocable:
 Overlooking Medellín on the way down from the Metrocable:
 <img src="https://sbinsa.files.wordpress.com/2012/11/photo-81.jpg" width="600px">
 
-So for those who have made it to the end, I will reward you with that news I spoke about earlier. This morning I found out that I was accepted to the University of Virginia law school, where I decided to apply early decision because it was far and away my top choice. It is binding, so Charlottesvile, Virginia is where I will be spending the next three years studying law! I am so beyond happy, and it certainly lifts a weight off that I have been feeling since arriving here. I do still have to withdraw my other applications, but still, no more LSAT, essay writing, gratuitous LSAC fees, or obsessive status checking. I am DONE applying to law school and I couldn’t be happier with the outcome.
+So for those who have made it to the end, I will reward you with that news I spoke about earlier. This morning I found out that I was accepted to the University of Virginia law school. Charlottesvile, Virginia is where I will be spending the next three years studying law! I am so beyond happy, and it certainly lifts a weight off that I have been feeling since arriving here. I do still have to withdraw my other applications, but still, no more LSAT, essay writing, gratuitous LSAC fees, or obsessive status checking. I am DONE applying to law school and I couldn’t be happier with the outcome.
 
 
 
