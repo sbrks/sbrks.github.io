@@ -1,5 +1,5 @@
 - name: "Data: A Love Story"
-  image: "/assets/img/datalove/april16.png"
+  image: "/assets/img/projects/april16.png"
   date: "Fall/Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
   link: "http://github.com/sbrks/datalove"
@@ -10,6 +10,7 @@
   link: "https://lendzen.herokuapp.com"
   description: "Current status: super buggy. But still proud of the code and concept: search for items that other users nearby have posted that they are willing to lend for a small fee. Borrow and lend stuff like photography gear, drones, smart watches, and other expensive tech gear. You get to try something cool without having to outright buy it. It's my envisioning of a true 'sharing economy.'"
 - name: Big Talker
+  image: "/assets/img/projects/bigtalker.png"
   date: "August 2016 - Present"
   tech: "Ruby on Rails, Heroku, HTML, CSS, Javascript, jQuery, ActiveRecord, PostgreSQL"
   link: "http://bigtalker.io"
@@ -35,6 +36,7 @@
   link: "http://ssb.nyc/salquotes"
   description: "Random inspirational quote generator."
 - name: Sol Lewitt Wall Mural
+  image: "/assets/img/projects/mural.jpg"
   date: "February 2016"
   tech: "Pencil, paper Sketch App, paint"
   link: "http://stephbrooks.com/mural"
