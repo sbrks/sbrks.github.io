@@ -11,8 +11,8 @@ layout: page
     {% for project in site.data.projects %}
     <a href="{{ project.link }}"">{{ project.name }}</a><br>
 <ul> 
-  <li><h3>Date Created:</h3> {{ project.date }}</li>
-  <li><h3>Tech:</h3> {{ project.tech }}</li>
+  <li><h3><u>Date Created:</u></h3> {{ project.date }}</li>
+  <li><h3><u>Tech:</u></h3> {{ project.tech }}</li>
   <li>{{ project.description }}</li>
  </ul>
     {% endfor %}
