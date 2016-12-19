@@ -65,7 +65,7 @@ ul {
 		display: block;
 	}
 	h1 {
-		font-size: 2em;
+		font-size: 1.6em;
 		margin-bottom: 0;
 	}
 	ul {
@@ -81,7 +81,7 @@ ul {
 .blog {
 	padding-bottom: 30px;
 	h1 {
-		font-size: 2em;
+		font-size: 1.6em;
 		font-weight: 800;
 		margin-top: 20px;
 		margin-bottom: 10px;
@@ -98,11 +98,12 @@ ul {
 		font-weight: 700;
 		margin-top: 18px;
 		margin-bottom: 8px;
+
 	}
 		a {
 		font-size: 20px;
 	}
-	
+
 }
 
 
@@ -128,7 +129,7 @@ ul {
 			// border-bottom: 1px solid $color-black;
 		}
 		h2 {
-			font-size: 1.6em;
+			font-size: 1.4em;
 			font-weight: 900;
 		}
 	}
@@ -146,13 +147,13 @@ ul {
 	&__content {
 		padding-top: 30px;
 		h1 {
-			font-size: 1.5em;
+			font-size: 1.6em;
 			font-weight: 700;
 			margin-top: 50px;
 			margin-bottom: 6px;
 		}
 		h2 {
-			font-size: 1.35em;
+			font-size: 1.4em;
 			font-weight: 900;
 			margin-top: 25px;
 			margin-bottom: 4px;
@@ -243,10 +244,16 @@ ul {
 	&__content {
 		margin-top: 20px;
 		h1 {
-			font-size: 1.2em;
-			font-style: italic;
-			margin-top: 30px;
-			margin-bottom: 5px;
+		  font-size: 1.6em;
+			font-weight: 800;
+			margin-top: 20px;
+			margin-bottom: 10px;
+		}
+		h2{
+		  font-size: 1.4em;
+			font-weight: 900;
+			margin-top: 25px;
+			margin-bottom: 4px;
 		}
 		p {
 			font-size: 1em;
