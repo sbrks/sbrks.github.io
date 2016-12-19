@@ -2,7 +2,7 @@
   date: "Fall/Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
   link: "http://github.com/sbrks/datalove"
-  description: "A love story told through Fitbit data. The increasing amount of data that describes our lives still leaves gaps that are impossible to fill without the human element. This is one attempt to take control of my data, substantiating it with a real life, intensely personal story. This all started because I wanted to know abotu my sleep cycles."
+  description: "A love story told through Fitbit data. The increasing amount of data that describes our lives still leaves gaps that are impossible to fill without the human element. This is one attempt to take control of my data, substantiating it with a real life, intensely personal story. This all started because I wanted to see what my sleep cycles looked like."
 - name: Lendzen
   date: "July 2016"
   tech: "Ruby on Rails, Heroku, HTML, CSS, Javascript, jQuery, ActiveRecord, PostgreSQL"
