@@ -28,8 +28,7 @@ layout: default
 	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
 	
-<span>
-    <span class="post-date" style="display:inline-block;">{{ page.date | date_to_string }}</span> |
+<span>|
     {% for tag in page.tags %}
       <span class="codinfox-tag-mark">{{ tag }}</span>
     {% endfor %}
