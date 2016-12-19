@@ -41,7 +41,7 @@ Here we generate all the tags.
 {% endfor %}
 
 {% for tag in tags %}
-<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+<h2 id="{{ tag | slugify }}">{{ tag.toUpperCase() }}</h2>
 <ul class="codinfox-category-list">
   {% for post in site.posts %}
   {% if post.tags contains tag %}
