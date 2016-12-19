@@ -24,6 +24,9 @@ layout: default
     <div class="post__date">
     	<p>{{ page.date | date: '%B %-d, %Y' }}</p>
     </div>
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
 
 <!--     <div>
     Tags: 
