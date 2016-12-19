@@ -9,7 +9,7 @@ layout: page
 <div class="projects">
 <h1 class="about__title">Projects</h1><br>
     {% for project in site.data.projects %}
-    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
+    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br><br>
     <img src="{{ project.image }}" width="600px" height="350px"><br>
 <ul> 
   <li>{{ project.description }}</li>
