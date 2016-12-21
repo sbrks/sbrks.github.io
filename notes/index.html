@@ -1,68 +1,31 @@
 ---
 layout: default
 ---
+<h1>Notes</h1>
 
-<div class="post">
-  <div class="post__back">
-      <a href="/">&lt;-- Home</a>
-    </div>
-    <div class="post__title">
-      <h1>{{ page.title }}</h1>
-    </div>
-    <div class="post__date">
-      <p>{{ page.date | date: '%B %-d, %Y' }}</p>
-    </div>
-<!-- {% for tag in tags %}
-  <a href="#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %} -->
-  
 
-    {% if page.tags != empty %}
-            Tags:
-            {% for tag in page.tags %}
-            <a class="tag-link" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-            {% endfor %}
-          {% endif %}
+<h2>Quick Notes, Ideas,</h2>
 
-    <div class="post__meta">
-      <p>{{ tags_content }}</p>
-    </div>
-    <div class="post__content"?>
-        {{ content }}
-    </div><br><br>
+<h3>Data Vis</h3>
+<ul>
+  <li>2016/12/20: Textual analysis of legislative documents including sentiment analysis, word count and usage, etc. Possible relationships between drafter's party affiliation, etc.</li>
+  <li></li>
+</ul>
 
-    <div id="related">
-    <h2>Recent Posts</h2>
-    <ul class="posts">
-      {% for post in site.related_posts limit:3 %}
-         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-    </div>
-    <br>
-    <br>
-    </div>
+<h3>App Ideas</h3>
+  <ul>
+    <li>Immigration - sanctuary city info/know your rights</li>
+    <li>Quick lawyer search and message</li>
+    <li>
+  </li>
 
-<script id="dsq-count-scr" src="//sbro.disqus.com/count.js" async></script>{% if page.comments %}
-    
-<div id="disqus_thread"></div>
-<script>
+<h3>Site To Do</h3>
+<ul>
+  <li>Continuous feed of Fitbit data</li>
+  <li>Livenote - publish live Evernote feed, or some ability to push notes from Notes app to a notes page here</li>
+  <li>Bookmarking system but with highlighted text. A tool for highlighting text and automatically saving and pushing it to this site</li>
+</ul>
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//sbro.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
+<ul>
+
+<form>
