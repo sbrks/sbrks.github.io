@@ -56,6 +56,29 @@ ul {
 }
 
 
+footer {
+  @include media(max-width 760px) {
+    display: none;
+  }
+
+  @include outer-container;
+  padding-bottom: 30px;
+  font-size: .9em;
+  margin-top: 5px;
+
+  #bio {
+    @include span-columns(8);
+    display: table;
+  }
+
+#fine-print {
+  text-align: center;
+  font-size: 11px;
+  color: #666;
+}
+
+	
+
 .header {
 	display: flex;
 	justify-content: space-between;
