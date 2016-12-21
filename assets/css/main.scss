@@ -57,26 +57,17 @@ ul {
 
 
 footer {
-  @include media(max-width 760px) {
-    display: none;
-  }
-
-  @include outer-container;
-  padding-bottom: 30px;
-  font-size: .9em;
-  margin-top: 5px;
-
-  #bio {
-    @include span-columns(8);
-    display: table;
   }
 
 #fine-print {
+ padding-bottom: 30px;
+  font-size: .9em;
+  margin-top: 5px;
   text-align: center;
   font-size: 11px;
   color: #666;
 }
-}
+
 	
 
 .header {
@@ -315,6 +306,6 @@ footer {
 			font-size: 1em;
 			line-height: 150%;
 			margin-bottom: 10px;
-		} }
+		} 
 	}
 }
