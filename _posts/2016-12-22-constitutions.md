@@ -3,7 +3,7 @@ layout: post
 title: Constitutions
 category: Data
 tags: [constitution, sentiment analysis, data, text, data viz]
-comments: true
+comments: false
 ---
 
 
