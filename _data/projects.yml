@@ -1,5 +1,5 @@
 - name: "Constitutions"
-  image: "/assets/img/projects/usconstitution.png"
+  image: "/assets/img/projects/usconstitution2.png"
   date: "Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
   link: "http://sbrks.github.io/constitutions/"
