@@ -23,6 +23,7 @@
   link: "http://bigtalker.io"
   description: "Airbnb for workshops and seminars. I developed this with a fellow GA programmer and product lead. Best part: it's a real business with paying customers. My first professional experience as a developer."
 - name: Lexa
+  image: "/assets/img/projects/lexa.png"
   date: "In development"
   tech: "Ruby on Rails, Foundation, Javascript, PostgreSQL"
   link: "http://github.com/sbrks/lexa"
