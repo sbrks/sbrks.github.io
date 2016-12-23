@@ -1,11 +1,22 @@
 - title: about
   url: /about
 
-- title: notes
-  url: /notes
-
 - title: projects
   url: /projects
 
 - title: contact
   url: /contact
+
+##all unlinked site pages (for reference)
+
+# - title: notes
+#   url: /notes
+
+# - title: streetnames
+#   url: /streetnames
+
+# - title: constitution
+#   url: /constitution
+
+# - title: log
+#   url: /log
