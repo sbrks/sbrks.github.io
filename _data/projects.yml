@@ -9,7 +9,7 @@
   date: "Winter 2016"
   tech: "D3.js, Javascript, HTML, CSS"
   link: "http://sbrks.github.io/constitutions/"
-  description: "A love story told through Fitbit data. The increasing a
+  description: "A text visualization of the world's constitutions"
 - name: "Lendzen"
   image: "/assets/img/projects/lendzen.png"
   date: "July 2016"
