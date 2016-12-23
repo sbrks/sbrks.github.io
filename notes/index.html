@@ -1,9 +1,17 @@
 ---
 layout: default
 ---
+<div class="header">
+    <h1>{{ site.name }}</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
-<head>
-  <link rel="stylesheet" type="text/css" href="notes.css">
 
 <h1>Notes</h1>
 <p>Notes, Ideas, Sketches, etc</p>
@@ -13,6 +21,9 @@ layout: default
   <li>2016/12/20: Textual analysis of legislative documents including sentiment analysis, word count and usage, etc. Possible relationships between drafter's party affiliation, etc.</li>
   <li>2016/12/23: Word bubbles - US constitution, other constitutions, real estate listings, SF street names</li>
 </ul>
+
+
+
 
 <h3>Data Sets</h3>
 <ul>
@@ -45,3 +56,4 @@ layout: default
   <li>Statistics and data analysis</li>
 </ul>
 
+{ include footer.html }
