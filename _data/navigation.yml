@@ -4,8 +4,13 @@
 - title: projects
   url: /projects
 
+- title: blog
+  url: /
+  
 - title: contact
   url: /contact
+
+
 
 ##all unlinked site pages (for reference)
 
