@@ -1,8 +1,8 @@
 - title: about
   url: /about
 
-# - title: blog
-#   url: /blog
+- title: notes
+  url: /notes
 
 - title: projects
   url: /projects
