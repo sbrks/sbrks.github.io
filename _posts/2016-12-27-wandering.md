@@ -5,8 +5,7 @@ category: Poetry
 tags: [poetry]
 comments: true
 ---
-<h2>Gate A-4</h2>
-<h3>A poem by Naomi Shihab Nye, 2008</h3>
+<h2>Gate A-4: a poem by Naomi Shihab Nye, 2008</h2>
 
 <p>
 Wandering around the Albuquerque Airport Terminal, after learning
