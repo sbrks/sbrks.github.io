@@ -1035,11 +1035,8 @@ function onEachFeature(feature, layer) {
   // var coord = feature.geometry.coordinates;
   //   L.marker(coord, {icon: mapIcon}).addTo(map).bindPopup(feature.properties.Building);
     // does this feature have a property named Building?
-    // if (feature.properties.Architect) {
-      
-    // }
     if (feature.properties && feature.properties.Building) {
-         layer.bindPopup(feature.properties.Building + "<br>" + feature.properties.Address + "<br>Architect: unknown" + "<br>Year Built: " + feature.properties['Year Build']);
+         layer.bindPopup("<div id='building-header'>" + feature.properties.Building + "</div><br>" + feature.properties.Address + "<br>Architect: unknown" + "<br>Year Built: " + feature.properties['Year Build']);
 
     }
     if (feature.properties.Architect) {
