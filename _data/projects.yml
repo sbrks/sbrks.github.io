@@ -14,7 +14,7 @@
   image: "/assets/img/projects/sf-architecture.png"
   date: "Winter 2016"
   tech: "D3.js, Leaflet.js, Mapbox, Javascript"
-  link: "http://sbrks.github.io/data/sfarchitecture/"
+  link: "http://sbrks.github.io/data/sf-architecture/"
   description: "An interactive map of San Francisco's best architecture."
 - name: "Data: A Love Story"
   image: "/assets/img/projects/april16.png"
