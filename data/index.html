@@ -10,12 +10,12 @@ layout: page
 <h1 class="about__title">Data Vis Projects</h1><br>
 <p>Wherein I visualize data I find on the internet using web-based tools like D3.js, Leaflet.js, and CartoDB</p>
     {% for project in site.data.dataprojects %}
-    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br><br>
+    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a>
     <img src="{{ project.image }}" width="600px"><br>
 
   {{ project.description }}
-  <span style="font-weight:bold">Date Created:</span> {{ project.date }}
+  <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br>
   <span style="font-weight:bold">Technologies:</span> {{ project.tech }}
-<br>
+<br><br>
     {% endfor %}
 </div>
