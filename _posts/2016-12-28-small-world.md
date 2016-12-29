@@ -18,19 +18,22 @@ It is stranger still when I encounter someone I know online, in a place I would 
 <quote>
 Checking Vroom's bookings for first-timers, Cade came across Auyon Mukharji, a recent college graduate abroad on a music scholarship. He was scheduled to fly from London to Nashville with Vroom on July 30, 2008.<br>
 
-Working with airline security, Cade hatched a plan to confront Mukharji at London's Heathrow Airport, challenging him to admit he had paid Vroom.<br>
+Working with airline security, Cade hatched a plan to confront Mukharji at London's Heathrow Airport, challenging him to admit he had paid Vroom.<br><br>
 
-"Mukharji appears to be naive, without financial wherewithal, and most probably very anxious to return 'home,'" American's head of global investigations wrote in an email.<br>
+"Mukharji appears to be naive, without financial wherewithal, and most probably very anxious to return 'home,'" American's head of global investigations wrote in an email.<br><br>
 
-At check-in, American agents detained Mukharji and escorted him to a private office. A former New York police detective working in American security offered a free ticket to Nashville if he'd confess to giving Vroom money.<br>
+At check-in, American agents detained Mukharji and escorted him to a private office. A former New York police detective working in American security offered a free ticket to Nashville if he'd confess to giving Vroom money.<br><br>
 
 But Mukharji insisted he hadn't, and American ultimately released him and gave him a coach ticket home. He could not be reached for comment.
-</quote>
+</quote><br>
 
 <a href="http://articles.latimes.com/2012/may/05/business/la-fi-0506-golden-ticket-20120506">LA Times article</a>
 
 <p>Someone else I know from college (I'm sensing a pattern here...) recently published a critically-acclaimed collection of short stories, and I recently read a review of it in an online publication. Another person I know just wrote an article published in the New York Times. There are a few more stories just like this one.</p>
 
-The internet is an immense and overwhelming place. It is well understood that it would take more than several lifetimes to interact with everything relevant or interesting to you online. Seemingly stumbling upon someone you know from the physical world on the internet is an unlikely and strange situation indeed.
+<p>
+The internet is an immense and overwhelming place. It is well understood that it would take more than several lifetimes to interact with everything relevant or interesting to you online. To seemingly stumble upon someone you know from the physical world on the internet is a very unlikely and somewhat disorienting occurence, but it happens. Of course it isn't totally arbitrary--there's certainly some self-selection in my leap from one hyperlink to the next that makes it more likely that I encounter someone with a similar interest or background as my own. But the LA Times article, for example: clicking on that and choosing to read it has little to nothing to do with my own physical-world association with Mr. Mukharji. Knowing who he is IRL did not bear at all on the likelihood I would consume that article. This felt more like a true chance online encounter.</p>
+
+<p>Has this ever happened to you? I'd be interested in other peoples' stories of this, how frequently it happens, and if they think it as strange as I do.</p>
 
 
