@@ -25,8 +25,7 @@ Working with airline security, Cade hatched a plan to confront Mukharji at Londo
 At check-in, American agents detained Mukharji and escorted him to a private office. A former New York police detective working in American security offered a free ticket to Nashville if he'd confess to giving Vroom money.<br><br>
 
 But Mukharji insisted he hadn't, and American ultimately released him and gave him a coach ticket home. He could not be reached for comment.
-</quote><br>
-
+</quote><
 <a href="http://articles.latimes.com/2012/may/05/business/la-fi-0506-golden-ticket-20120506">LA Times article</a>
 
 <p>Someone else I know from college (I'm sensing a pattern here...) recently published a critically-acclaimed collection of short stories, and I recently read a review of it in an online publication. Another person I know just wrote an article published in the New York Times. There are a few more stories just like this one.</p>
