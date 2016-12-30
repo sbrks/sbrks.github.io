@@ -14,15 +14,18 @@ I'm starting a new data vis project on some of the world's constitutions. Couple
 
 <h3>United States Constitution</h3>
 <a href="http://sbrks.github.io/constitution/">Full Text</a>
+<img src="/assets/img/projects/usconstitution2.png" />
 
-<h4>Word Bubble Map</h4>
-<p>Hover for word frequency</p>
-<!--BEGIN infocaptor_embed This is the embedable widget,just paste the code from BEGIN...END.Powered by http://www.infocaptor.com-->
+<h4>Word Bubble Maps</h4>
 
-<div><iframe scrolling="no" frameborder=0 
-src="http://www.infocaptor.com/bubble-my-page?size=900&mode=embed&url=https://sbrks.github.io/constitution/" width=900 height=930></iframe><div><a  style="font-size:12px;color:#C2C2C2;text-decoration:none; " href="http://www.infocaptor.com/bubble-my-page" arget="_infocaptor" >Build bubbles for your page </a><a  style="font-size:12px;color:#C2C2C2;text-decoration:none;float:right;" href="http://www.infocaptor.com" target="_infocaptor">Dashboards</a></div>
-</div>
-<!--END infocaptor_embed-->
+<h3>Colombia</h3>
+<a href="http://sbrks.github.io/constitution/colombia.html">Full Text</a>
+<img src="/constitution/img/colombia.png" />
 
+<h3>Ecuador</h3>
+<a href="http://sbrks.github.io/constitution/ecuador.html">Full Text</a>
+<img src="/constitution/img/ecuador.png" />
 
-
+<h3>Venezuela</h3>
+<a href="http://sbrks.github.io/constitution/venezuela.html">Full Text</a>
+<img src="/constitution/img/venezuela.png" />
