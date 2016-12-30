@@ -6,8 +6,6 @@ tags: [2016, year in review, notes, draft]
 comments: true
 ---
 
-** DRAFT **
-
 
 <h2>What I Learned</h2>
 
