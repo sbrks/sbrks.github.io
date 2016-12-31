@@ -5,6 +5,7 @@ layout: page
 <div class="post__back">
     	<a href="/">&lt;-- Home</a>
 </div>
+<!-- 
 <br><br>
 
 <div class="blog">
@@ -33,24 +34,9 @@ layout: page
         </li><br>
         {% endfor %}
     </ul>
-</div>
-
-------
-
-
-<div class="header">
-    <h1>{{ site.name }}</h1>
-    <ul>
-        {% for item in site.data.navigation %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul><br>
-</div>
+</div> -->
 
 <div id="blog">
-    <!-- <div class="about__title">Words</div> -->
     <ul>
         {% for post in site.posts %}
         <li>
