@@ -19,11 +19,11 @@ layout: default
 <ul> 
   <li>
     <div class="col-xs-12 col-sm-4 col-md-3">
-        <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a>
+        <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
              <img src="{{ project.image }}" width="600px"><br>
-        <p>{{ project.description }}</p>
+        <p>{{ project.description }}</p><br>
     </div>
-     <span style="font-weight:bold">Date Created:</span> {{ project.date }}
+     <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br>
   <li><span style="font-weight:bold">Technologies:</span> {{ project.tech }}
 </li>
     {% endfor %}
