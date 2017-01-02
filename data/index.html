@@ -7,14 +7,13 @@ layout: page
 </div>
 
 <div class="projects">
-<h1 class="about__title">Data Vis Projects</h1>
-<p>Wherein I visualize data I find on the internet using web-based tools like D3.js, Leaflet.js, and CartoDB</p><br>
+<h1 class="about__title">Daily Data Vis</h1>
+<p>Wherein I make and publish a data visualization everyday using data I find on the internet and web-based tools like D3.js, Leaflet.js, and CartoDB</p><br><br>
     {% for project in site.data.dataprojects %}
-    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a>
+    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
     <img src="{{ project.image }}" width="600px"><br>
-
-  {{ project.description }}
-  <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br>
+  {{ project.description }}<br>
+  <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br><br>
   <span style="font-weight:bold">Technologies:</span> {{ project.tech }}
 <br><br>
     {% endfor %}

@@ -2,7 +2,7 @@
   image: "/assets/img/projects/tangram-map.png"
   date: "01-01-2017"
   tech: "Mapzen, YAML, CSS"
-  link: "http://sbrks.github.io/tangram-map/"
+  link: "http://sbrks.github.io/data/tangram-map/"
 - name: "San Francisco Architecture Map"
   image: "/assets/img/projects/sf-architecture.png"
   date: "Winter 2016"
