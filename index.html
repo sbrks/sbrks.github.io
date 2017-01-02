@@ -15,14 +15,19 @@ layout: default
 <div class="projects">
 <!-- <h1 class="about__title">Projects</h1><br> -->
     {% for project in site.data.projects %}
-    <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br><br>
-    <img src="{{ project.image }}" width="600px"><br>
+
 <ul> 
-  <li>{{ project.description }}</li>
-  <li><span style="font-weight:bold">Date Created:</span> {{ project.date }}</li>
-  <li><span style="font-weight:bold">Technologies:</span> {{ project.tech }}</li>
- </ul><br>
+  <li>
+    <div class="col-xs-12 col-sm-4 col-md-3">
+        <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a>
+             <img src="{{ project.image }}" width="600px"><br>
+        <p>{{ project.description }}</p>
+    </div>
+     <span style="font-weight:bold">Date Created:</span> {{ project.date }}
+  <li><span style="font-weight:bold">Technologies:</span> {{ project.tech }}
+</li>
     {% endfor %}
+</ul><br>
 </div>
 
 <!-- <div id="blog">
