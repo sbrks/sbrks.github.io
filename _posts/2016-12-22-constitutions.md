@@ -43,7 +43,7 @@ https://www.constituteproject.org/constitution/Colombia_2013?lang=en
 <img src="/constitution/img/colombia.png" />
 
 <h3>Ecuador</h3>
-<a href="http://sbrks.github.io/constitution/ecuador.html">Full Text</a>
+<a href="http://sbrks.github.io/constitution/ecuador.html">Full Text</a>https://www.constituteproject.org/constitution/Ecuador_2015?lang=en
 <ul>
   <li>Top 10 Most Common Words: </li>
   <li>Document Sentiment: </li>
