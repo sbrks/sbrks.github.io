@@ -5,9 +5,9 @@ body {
 
 #mapid { 
 	height: 650px;
-	width: 100%;
-	color:blue; 
+	width: 85%;
 	margin: 0 auto;
+	border: solid 8px #FFFAFF;
 }
 
 h1 {
