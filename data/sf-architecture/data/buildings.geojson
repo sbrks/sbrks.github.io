@@ -200,6 +200,169 @@ var dataLayer = {
         "Year Build": "1866",
         "Architect": ""
       }
+    },
+/* added 1/31/17 */
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -122.405118,
+          37.790847
+        ]
+      },
+      "properties": {
+        "District": "Retail District",
+        "Neighborhood": "Retail District",
+        "Building": "Pacific States Telephone and Telegraph Building",
+        "Address": "445 Bush Street",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1905",
+        "Architect": "AA Cantin"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413127,
+          37.781829
+        ]
+      },
+      "properties": {
+        "District": "Civic Center",
+        "Neighborhood": "Tenderloin",
+        "Building": "St. Boniface Roman Catholic Church",
+        "Address": "133 Golden Gate Avenue",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1900-1902, 1907",
+        "Architect": "Brother Adrian Wewer and Brother Ildefonse Lethert"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413397,
+          37.792123
+        ]
+      },
+      "properties": {
+        "District": "Nob Hill",
+        "Neighborhood": "Nob Hill",
+        "Building": "Grace Cathedral",
+        "Address": "1112 Jones Street",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1928-1964",
+        "Architect": "Lewis Hobart (1928-41); Weihe, Frick, and Kruse (1961-64)"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436430,
+          37.777308
+        ]
+      },
+      "properties": {
+        "District": "Western Addition",
+        "Neighborhood": "Western Addition",
+        "Building": "Westerfeld House",
+        "Address": "1198 Fulton Street",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1889",
+        "Architect": "Henry Geilfuss"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468686,
+          37.771689
+        ]
+      },
+      "properties": {
+        "District": "Golden Gate Park",
+        "Neighborhood": "Golden Gate Park",
+        "Building": "deYoung Museum",
+        "Address": "50 Hagiwara Tea Drive",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "2005",
+        "Architect": "Herzog and de Meuron"
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449639,
+          37.770196
+        ]
+      },
+      "properties": {
+        "District": "The Haight",
+        "Neighborhood": "Haight-Ashbury",
+        "Building": "Sunset Theater",
+        "Address": "1660 Haight Street",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1911",
+        "Architect": "Bernard J. Joseph"
+      }
+    },
+       {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444923,
+          37.770128
+        ]
+      },
+      "properties": {
+        "District": "The Haight",
+        "Neighborhood": "Haight-Ashbury",
+        "Building": "Queen Anne Houses",
+        "Address": "1226-1238, 1250-1256 Masonic Avenue",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "189501896",
+        "Architect": "Cranston and Keenan"
+      }
+    },
+       {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426897,
+          37.764650
+        ]
+      },
+      "properties": {
+        "District": "Mission District",
+        "Neighborhood": "The Mission",
+        "Building": "Mission Dolores Basilica",
+        "Address": "3321 16th Street",
+        "City": "San Francisco",
+        "State": "California",
+        "Year Build": "1914, 1926",
+        "Architect": "Henry A. Minton"
+      }
     }
+  /* end 1/31 data */
+
   ]
 }
