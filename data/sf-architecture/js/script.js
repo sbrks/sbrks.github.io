@@ -1,6 +1,9 @@
 
 var map = L.map('mapid').setView([37.77, -122.4494], 13);
 
+var geocoder = L.Mapzen.geocoder('mapzen-2Esv4ck');
+  geocoder.addTo(map);
+
 L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoic2Jya3MiLCJhIjoiY2l4NDdic2k2MDB3MDJ5bXo1amEyamtseiJ9.0F-KchzX1fhKBM6BG6srcg', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
@@ -8,7 +11,6 @@ L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{
     accessToken: 'pk.eyJ1Ijoic2Jya3MiLCJhIjoiY2l4NDdic2k2MDB3MDJ5bXo1amEyamtseiJ9.0F-KchzX1fhKBM6BG6srcg'
 }).addTo(map);
 
-// var marker = L.marker([37.7749, -122.4194]).addTo(map);
 
 var geojsonFeature = {
   "type": "FeatureCollection",
