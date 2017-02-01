@@ -1157,7 +1157,7 @@ var geojsonFeature = {
     }
   /* end 1/31 data */
   ]
-}
+};
 
 
 
