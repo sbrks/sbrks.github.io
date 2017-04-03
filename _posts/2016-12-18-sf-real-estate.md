@@ -6,7 +6,7 @@ tags: [san francisco, data, real estate, language, data viz, draft]
 comments: false
 ---
 
-** DRAFT **
+
 
 This weekend I embarked on a small data visualization project. I chose to look at San Francisco real estate listings to try to find interesting trends and relationships. Much has been covered on affordability, rising prices, and housing regulations, but I wanted to look through a different lens. I've always been curious about the use of language in real estate listings--it varies widely in type, style, grammatical correctness, and overall effect. My hypothesis was that there would be a detectable relationship between the language of a real estate listing and its asking price and geographical location. More specifically, I hypothesized an inverse relationship: listings with lower asking prices would contain more verbose and emotional language. I believed there would be a sort of "compensatory" effect at play, where less desirable listings are bulked up with more forceful language; their location and property alone wouldn't speak (as loudly) for themselves. 
 
