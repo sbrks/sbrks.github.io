@@ -40,11 +40,11 @@
   tech: "Ruby on Rails, Foundation, Javascript, PostgreSQL"
   link: "http://github.com/sbrks/lexa"
   description: "Still in development, but Lexa is a passion project of mine--a democratization of legal help for everyone. Stay tuned."
-- name: Quick Notes
-  date: "November 2016"
-  tech: "Javascript, HTML, CSS"
-  link: "http://github.com/sbrks/quicknotes"
-  description: "Ever have a great idea that you wish you had written down? I claim this happens to me a lot. So I made a really simple in-browser text editor. You can type out your notes and the browser will store them for you to come back to at a later time."
+# - name: Quick Notes
+#   date: "November 2016"
+#   tech: "Javascript, HTML, CSS"
+#   link: "http://github.com/sbrks/quicknotes"
+#   description: "Ever have a great idea that you wish you had written down? I claim this happens to me a lot. So I made a really simple in-browser text editor. You can type out your notes and the browser will store them for you to come back to at a later time."
 - name: Canvas Sketch Pad
   image: "/assets/img/projects/canvas2.png"
   date: "July 2016"
@@ -57,9 +57,9 @@
   tech: "HTML, CSS, Javascript"
   link: "http://ssb.nyc/salquotes"
   description: "A random inspirational quote generator I made for a friend"
-- name: Sol Lewitt Wall Mural
-  image: "/assets/img/projects/mural.jpg"
-  date: "February 2016"
-  tech: "Pencil, paper Sketch App, paint"
-  link: "http://stephbrooks.com/mural"
-  description: "I painted Sol Lewitt Wall Drawing 797 on my bedroom wall in Brooklyn over a snowed-in weekend in February, 2016."
+# - name: Sol Lewitt Wall Mural
+#   image: "/assets/img/projects/mural.jpg"
+#   date: "February 2016"
+#   tech: "Pencil, paper Sketch App, paint"
+#   link: "http://stephbrooks.com/mural"
+#   description: "I painted Sol Lewitt Wall Drawing 797 on my bedroom wall in Brooklyn over a snowed-in weekend in February, 2016."

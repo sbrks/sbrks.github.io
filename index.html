@@ -30,6 +30,23 @@ layout: default
 </ul><br>
  -->
 
+<div id="ssb-portfolio">
+  <div class="container">
+  <h1 class="about__title">Projects</h1><br>
+    {% for project in site.data.projects %}
+<ul> 
+  <li>
+     <div class="col-md-8 col-md-offset-2 text-center ssb-heading">
+        <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
+             <img src="{{ project.image }}" width="700px" style="padding-top:20px"><br>
+        <p>{{ project.description }}</p><br>
+    </div>
+     <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br>
+  <li><span style="font-weight:bold">Technologies:</span> {{ project.tech }}
+</li>
+    {% endfor %}
+</ul><br>
+
 <!-- Portfolio -->
   <div id="ssb-portfolio">
     <div class="container">
