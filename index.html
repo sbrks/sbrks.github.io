@@ -12,11 +12,11 @@ layout: default
     </ul><br>
 </div>
 
-<!-- <div class="projects"> -->
-<!-- <h1 class="about__title">Projects</h1><br> -->
-<!--     {% for project in site.data.projects %} -->
+<div class="projects">
+  <h1 class="about__title">Projects</h1><br>
+    {% for project in site.data.projects %}
 
-<!-- <ul> 
+<ul> 
   <li>
     <div class="col-xs-12 col-sm-4 col-md-3">
         <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
@@ -28,14 +28,4 @@ layout: default
 </li>
     {% endfor %}
 </ul><br>
-</div> -->
-
-<div id="blog">
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+</div> 
