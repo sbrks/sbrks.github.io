@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="header">
     <h1>{{ site.name }}</h1>
+    <h2>{{ site.description }}</h2>
     <ul>
         {% for item in site.data.navigation %}
         <li>
@@ -11,24 +12,6 @@ layout: default
         {% endfor %}
     </ul><br>
 </div>
-
-<!-- <div class="projects">
-  <h1 class="about__title">Projects</h1><br>
-    {% for project in site.data.projects %}
-
-<ul> 
-  <li>
-    <div class="col-xs-12 col-sm-4 col-md-3">
-        <a href="{{ project.link }}"" target="_blank">{{ project.name }}</a><br>
-             <img src="{{ project.image }}" width="700px" style="padding-top:20px"><br>
-        <p>{{ project.description }}</p><br>
-    </div>
-     <span style="font-weight:bold">Date Created:</span> {{ project.date }}<br>
-  <li><span style="font-weight:bold">Technologies:</span> {{ project.tech }}
-</li>
-    {% endfor %}
-</ul><br>
- -->
 
 <div id="ssb-portfolio">
   <div class="container">
