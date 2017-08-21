@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Philophy of Work
+title: The Philosophy of Work
 category: Work
 tags: [work, philosophy, draft]
 comments: false
