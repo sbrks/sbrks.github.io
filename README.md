@@ -1,6 +1,6 @@
 # Jekyll Blog
 
-I finally decided to transfer my Wordpress blog over to the more developer-friendly Jekyll in order to maximize speed and control, and minimize many gratutious features and minimize the overall WYSIWYG-iness. 
+I transferred my Wordpress blog over to the more developer-friendly Jekyll in order to maximize speed and control and minimize the many gratutious features and bloat of a full CMS.
 
 ## Credits
 
