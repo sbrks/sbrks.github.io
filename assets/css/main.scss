@@ -7,7 +7,7 @@
 body {
 	color: $color-black;
 	background: $color-white;
-	font-family: 'Inconsolata', ;
+	font-family: 'Times New Roman', Times, serif;
 	font-size: 100%;
 	font-weight: 400;
 }
@@ -19,7 +19,7 @@ p {
 	line-height: 150%;
 }
 a {
-  color: $color-link;
+  color: #0f5bf1;
   text-decoration: none;
   &:visited {
 	color: $color-link;
@@ -27,10 +27,10 @@ a {
   }
   &:hover {
 	text-decoration: none;
-	background-color: blue;
+	background-color: #0f5bf1;
 	color: white;
 	padding-bottom: 2px;
-	border-bottom: 1px solid $color-link;
+	border-bottom: 1px solid white;
   }
   &:active {
 	color: $color-link;
