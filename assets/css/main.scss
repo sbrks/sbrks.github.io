@@ -18,6 +18,11 @@ h1, h2, h3 {
 	margin-bottom: 5px;
 	font-family: 'Lato', sans-serif;
 }
+
+li, span {
+	font-family: 'Times New Roman', Times, serif;
+}
+
 p {
 	font-size: 1em;
 	line-height: 150%;
@@ -39,7 +44,7 @@ a {
 	border-bottom: 1px solid white;
   }
   &:active {
-	color: $color-link;
+	color: yellow;
 	text-decoration: none;
   }
 }
@@ -178,6 +183,7 @@ hr {
   color: #666;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
 }
 	
 
