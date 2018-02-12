@@ -26,8 +26,8 @@ a {
 	text-decoration: none;
   }
   &:hover {
-	text-decoration: underline;
-	background-color: $color-link;
+	text-decoration: none;
+	background-color: blue;
 	color: white;
 	padding-bottom: 2px;
 	border-bottom: 1px solid $color-link;
