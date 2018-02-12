@@ -14,6 +14,7 @@ layout: default
 </div>
 
 <div id="ssb-portfolio">
+  
   <div class="container">
     <h1>Hi there. My name is Stephanie Brooks</h1>
     <p>I am a technical writer and developer for the web</p>
@@ -22,11 +23,21 @@ layout: default
       <li>Writings</li>
       <li>Email</li>
     </ul>
-  </div>
 
-  <div class="container">
    <img src="/assets/img/me-park.jpg" alt="Me in Golden Gate Park" width="300px">
   </div>
+
+
+<div id="blog">
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
 </div>
 
 <!-- <div id="ssb-portfolio">
